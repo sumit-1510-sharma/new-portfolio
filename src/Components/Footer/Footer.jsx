@@ -10,22 +10,20 @@ const Footer = () => {
         <div className="footer-top-left">
           <img src={s_logo} alt="" />
           <p>
-            Fullstack Java Developer | Frontend with ReactJS & NextJS | Backend
-            with Spring Boot & Hibernate
+            Java Backend Web Developer | ReactJS Frontend Web Developer | React
+            Native Android Dev
           </p>
         </div>
         <div className="footer-top-right">
-          <a href="" className="footer-subscribe">Refresh</a>
+          <a href="" className="footer-subscribe">
+            Refresh
+          </a>
         </div>
       </div>
       <hr />
       <div className="footer-bottom">
-        <p className="footer-bottom-left">
-          © 2024 Sumit Sharma. All rights reserved.
-        </p>
+        <p className="footer-bottom-left"></p>
         <div className="footer-bottom-right">
-          <p>Term of Services</p>
-          <p>Privacy Policy</p>
           <p>Connect with me</p>
         </div>
       </div>

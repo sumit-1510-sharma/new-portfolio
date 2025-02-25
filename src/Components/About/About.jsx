@@ -21,13 +21,14 @@ const About = () => {
               strong focus on both frontend and backend technologies. With a
               robust foundation in Java and extensive experience working with
               modern frameworks, I thrive on building dynamic, responsive, and
-              scalable web applications. <br /> <br />
+              scalable web and android applications. <br /> <br />
               <span className="frontend-expertise">
                 Frontend Expertise:
               </span>{" "}
               <br />
               <ul>
                 <li>ReactJs and NextJs</li>
+                <li>React Native (Expo)</li>
                 <li>TypeScript and JavaScript</li>
                 <li>CSS and Tailwind CSS</li>
               </ul>
@@ -73,7 +74,7 @@ const About = () => {
         </div>
         <hr />
         <div className="about-achievement">
-          <h1>50+</h1>
+          <h1>100+</h1>
           <p>GITHUB CONTRIBUTIONS</p>
         </div>
         <hr />

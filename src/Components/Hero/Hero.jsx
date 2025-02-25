@@ -14,8 +14,8 @@ const Hero = () => {
         </span>
       </h1>
       <p>
-        Fullstack Java Developer | Frontend with ReactJS & NextJS | Backend with
-        Spring Boot & Hibernate
+        Java Backend Web Developer | ReactJS Frontend Web Developer | React
+        Native Android Dev
       </p>
       <div className="hero-action">
         <div className="hero-connect">

@@ -21,7 +21,7 @@ const MyWork = () => {
         })}
       </div>
       <div className="mywork-showmore">
-        <a href="https://vercel.com/sumitparashar1510s-projects">Show More</a>
+        <a href="https://github.com/sumit-1510-sharma">Show More</a>
         <img src={arrow_icon} alt="" />
       </div>
     </div>

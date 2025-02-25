@@ -1,12 +1,18 @@
 const Services_Data = [
   {
     s_no: "01",
-    s_name: "Web design",
+    s_name: "Web development",
     s_desc:
       "I design as well as develop web applications which are scalable and very efficient",
   },
   {
     s_no: "02",
+    s_name: "Android app development",
+    s_desc:
+      "I develop android react native apps with most advanced project management tool, Expo",
+  },
+  {
+    s_no: "03",
     s_name: "Music editing",
     s_desc: "I am a guitarist and edit audio and video content as my hobby",
   },
