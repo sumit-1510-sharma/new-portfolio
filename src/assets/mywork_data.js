@@ -4,8 +4,15 @@ import project3_img from "../assets/project3_img.png";
 import project4_img from "../assets/project4_img.png";
 import project5_img from "../assets/project5_img.png";
 import project6_img from "../assets/project6_img.png";
+import project7_img from "../assets/project7_img.png";
 
 const mywork_data = [
+  {
+    w_no: 7,
+    w_name: "Web design",
+    w_img: project7_img,
+    link: "https://blankcanvasdesign.co/",
+  },
   {
     w_no: 1,
     w_name: "Web design",
